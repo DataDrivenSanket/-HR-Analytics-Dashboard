@@ -62,7 +62,8 @@ By analyzing multiple aspects of employee data, HR professionals can make inform
 
 ## Dashboard Screenshot
 
-![Screenshot 2024-09-11 223111](https://github.com/user-attachments/assets/f50e9c3c-e709-48b2-ade3-70bbead6df11)
+![Screenshot 2024-09-11 231557](https://github.com/user-attachments/assets/17df11c0-1458-4b09-bbde-edf8fa6588e4)
+       
           
 
 ## Tools & Technologies Used
