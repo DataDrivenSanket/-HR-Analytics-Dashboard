@@ -62,10 +62,9 @@ By analyzing multiple aspects of employee data, HR professionals can make inform
 
 ## Dashboard Screenshot
 
-![Screenshot 2024-09-11 231557](https://github.com/user-attachments/assets/17df11c0-1458-4b09-bbde-edf8fa6588e4)
-       
-          
+![Screenshot 2024-09-11 231917](https://github.com/user-attachments/assets/5ffabcf6-b49e-4d66-a776-742b9229bbd8)
 
+       
 ## Tools & Technologies Used
 - **Power BI Desktop**: Data visualization and dashboard creation.
 - **Excel / CSV Files**: For managing raw data.
